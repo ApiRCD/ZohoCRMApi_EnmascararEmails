@@ -201,7 +201,7 @@ do
                 {
 
                     // Prod
-                    URL = "https://api.rcdservices.io/Middleware/api/ApiMasking/MaskEmail";
+                    URL = "https://integrations.rcdservices.io/Middleware/api/ApiMasking/MaskEmail";
 
                 }
                 else
@@ -598,7 +598,7 @@ do
                 {
 
                     // Prod
-                    URL = "https://api.rcdservices.io/Middleware/api/ApiMasking/MaskEmail";
+                    URL = "https://integrations.rcdservices.io/Middleware/api/ApiMasking/MaskEmail";
 
                 }
                 else
